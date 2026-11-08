@@ -68,3 +68,5 @@ LIBDISK_EXTERN_C int32_t libdisk_create_boot_sector_vdf(struct libdisk_disk_inte
 
   return LIBDISK_EXIT_SUCCESS;
 }
+
+// EOF
